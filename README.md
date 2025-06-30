@@ -8,9 +8,6 @@ A simple NLP system to:
 
 ## Tech Stack
 - Python
-- Hugging Face Transformers
-- AraBERT / CAMeLBERT
-- Streamlit
 - feedparser
 
 ## Project Structure
