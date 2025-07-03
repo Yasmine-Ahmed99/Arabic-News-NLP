@@ -16,6 +16,7 @@ Arabic-News-NLP/
 - ├── notebooks/           # Jupyter/Colab notebooks
 - │   ├── data_collection.ipynb
 - │   ├── preprocessing.ipynb
+- │   ├── Zero-shot_Classification_Manual_Correction.ipynb
 - │   ├── classification.ipynb
 - │   └── summarization.ipynb
 - ├── app/                 # Streamlit app code
