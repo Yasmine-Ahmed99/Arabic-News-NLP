@@ -12,8 +12,8 @@ A simple NLP system to:
 
 ## Project Structure
 Arabic-News-NLP/
-- ├── data/                # Raw and processed data
-- ├── notebooks/           # Jupyter/Colab notebooks
+- ├── data/                
+- ├── notebooks/          
 - │   ├── data_collection.ipynb
 - │   ├── preprocessing.ipynb
 - │   ├── Zero-shot_Classification_Manual_Correction.ipynb
@@ -21,6 +21,6 @@ Arabic-News-NLP/
 - │   └── summarization.ipynb
 - ├── app/                 # Streamlit app code
 - │   └── app.py
-- ├── requirements.txt     # project dependencies
+- ├── requirements.txt     
 - └──  README.md
 
